@@ -13,5 +13,5 @@ Relacyjna baza danych.
 Projekt: Figma + Miro + Android Studio; repo na GitHub.
 
 
-Link Miro:
+Link Draw.io: https://drive.google.com/file/d/1f_hn2gpawvIA024Dozw2b0YAePy30v2L/view?usp=sharing
 Link Figma: 
