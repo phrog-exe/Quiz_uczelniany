@@ -4,6 +4,8 @@ Losowane N=10 pytań z puli 100, bez powtórzeń.
 
 Jeżeli użytkownik odpowie źle — nie przechodzi dalej (koniec quizu).
 
+Wyskakującę notyfikacje>
+
 Język: Java.
 
 Relacyjna baza danych.
